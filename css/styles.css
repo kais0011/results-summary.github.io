@@ -7,6 +7,7 @@ body{
     src: url("../font/HankenGrotesk-Medium.ttf");
 }
 .all{
+    padding-top: 100px;
     width: 50%;
     margin: auto;
 }
@@ -160,6 +161,7 @@ body{
     }
  .all{
     width: 100%;
+    padding-top: 0px;
 
  }
  .sous {
@@ -289,7 +291,8 @@ font-size: 40px;
     }
     .all{
        width: 100%;
-   
+       padding-top: 0px;
+
     }
     .sous {
        display:flex;
